@@ -41,6 +41,6 @@ class DayOfWeekMain {
     public static void main(String[] args) {
         DayOfWeek d = DayOfWeek.MONDAY;
        System.out.println(d.getWorkingHours(DayOfWeek.MONDAY));
-      
+
     }
 }
