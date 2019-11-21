@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="080a3611-e982-4b9c-a4fe-2bf75e111db2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="080a3611-e982-4b9c-a4fe-2bf75e111db2" name="Default Changelist" comment="Excetpions has been already added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DayOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2/DayOfWeekMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2/DayOfWeekMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2/Exeptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2/Exeptions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exeptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exeptions.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,6 +87,14 @@
       <option name="presentableId" value="Default" />
       <updated>1574248636586</updated>
     </task>
+    <task id="LOCAL-00001" summary="new array">
+      <created>1574260956694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574260956694</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,10 +102,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new array" />
+    <MESSAGE value="Excetpions has been already added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Excetpions has been already added" />
   </component>
 </project>
